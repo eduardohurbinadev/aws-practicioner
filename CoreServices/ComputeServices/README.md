@@ -3,11 +3,11 @@
 
 ## Instance Types
 - Defines the processor, memory, and storage type
-- Cannot be changed without downtime
-- Provided in the following categories
+- Cannot be changed without **downtime**
+- Provided in the following categories:
     - General purpose 
     - Compute, memory, and storage optimized
-    - Accelerate computing 
+    - Accelerated computing 
 - Pricing is based on instance type
 - Some instance types have unique capabilities
 ## Root Device Type
@@ -72,7 +72,17 @@ Pay, by the second, for the instances that you lauch.
 - Supports a specific set of technologies
 - Leverages existing AWS services
 - Only pay for the other services you leverage
-- Handles provisioning, load balancing, scaling, and monitoring. 
+- Handles provisioning, load balancing, scaling, and monitoring.
+
+## Supported Application Platforms
+- Java
+- .NET
+- PHP
+- Node.js
+- Python
+- Ruby
+- Go
+- Docker
 
 ## Features
 - Monitoring 

@@ -101,8 +101,8 @@ Pay, by the second, for the instances that you lauch.
 - Only charged for usage based on execution time
 - Can figure available memory from 128 MB to 3008 MB 
 - Integrates with many AWS services
-- Enables event-driven workflows
-- Primary service for serverless architecture
+- Enables **event-driven workflows**
+- Primary service for **serverless architecture**
 ## Advantages
 - Reduced maintenance requirements
 - Enables fault tolerance without additional work
